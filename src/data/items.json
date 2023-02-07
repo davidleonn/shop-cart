@@ -19,8 +19,20 @@
   },
   {
     "id": 4,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/images/car.jpg"
+    "name": "Protein",
+    "price": 50,
+    "imgUrl": "/images/whey.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mobile",
+    "price": 160,
+    "imgUrl": "/images/nokia.webp"
+  },
+  {
+    "id": 6,
+    "name": "Gaming PC",
+    "price": 1400,
+    "imgUrl": "/images/pc.png"
   }
 ]

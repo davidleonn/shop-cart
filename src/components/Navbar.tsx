@@ -9,13 +9,7 @@ export const Navbar = () => {
       <Container>
         <Nav className="me-auto">
           <Nav.Link to="/" as={NavLink}>
-            Home
-          </Nav.Link>
-          <Nav.Link to="/Store" as={NavLink}>
             Store
-          </Nav.Link>
-          <Nav.Link to="About/" as={NavLink}>
-            About
           </Nav.Link>
         </Nav>
         {cartQuantity > 0 && (
